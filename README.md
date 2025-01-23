@@ -1,8 +1,8 @@
 # kausthuba
 
-Azure Data Engineer 
+# Azure Data Engineer 
 
-Technical Skills :
+## Technical Skills :
 1. Azure Cloud Architecture
 2. Azure Data Factory
 3. Azure Synapse Analytics
