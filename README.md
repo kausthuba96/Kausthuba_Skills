@@ -5,12 +5,13 @@
 ## Technical Skills :
 1. Azure Cloud Architecture
 2. Azure Data Factory
-3. Azure Synapse Analytics
-4. Azure Stream Analytics
-5. Azure Data Factory
-6. Python
-7. SQL
-8. Apache Spark
-9. Data Orchestration
+3. Azure Databricks
+4. Snowflake
+5. Azure Synapse Analytics
+6. Azure Stream Analytics
+8. Python
+9. SQL
+10. Apache Spark
+11. Data Orchestration
     
    
